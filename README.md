@@ -1,7 +1,7 @@
 # ChatBot-NMT
 Chatbot using advanced NMT (Seq2Seq) RNN to chat !
 # Collecting Data
-There is already training a sample data in "data" folder. Sample data is produced using Reddit 2015 January monthly entrys,comments whatever you call it.
+There is already training a sample data in "new data" folder. Sample data is produced using Reddit 2015 January monthly entrys,comments whatever you call it.
 But if you want to use your own data you can go to https://pythonprogramming.net/data-structure-chatbot-deep-learning-python-tensorflow/
 # Training Data
 When your data is ready, train it train.py.
